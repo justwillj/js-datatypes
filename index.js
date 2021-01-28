@@ -1,5 +1,5 @@
 /*
-    Welcome to the JS Fundamentals exercise! Follow the instructions for each requirement.
+    Welcome to the JS Data Types exercise! Follow the instructions for each requirement.
     To check your answers, open the index.html file in your browser. Follow the instructions
     there to see your results. The training staff may use additional test cases when grading
     your work.
