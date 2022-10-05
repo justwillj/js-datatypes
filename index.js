@@ -12,9 +12,9 @@
 
 // 1.   Declare a variable named "tree". Use a keyword that allows reassignment,
 //      but not re-declaration
-let tree;
+// let tree;
 // 2.   Assign a value of 'Oak' to the tree variable
-
+let tree = "Oak";
 // 3.   Initialize a constant variable named "alaskaStateFlower",
 //      and assign it the value of 'Forget-me-not'
 
