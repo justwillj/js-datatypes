@@ -29,7 +29,7 @@ const defaultVariableValue = 'undefined';
 // 7.   Assign lackOfValue to be the data type that a developer should
 //      assign when a value is not known ahead of time. Your answer should
 //      not be a string
-let lackOfValue;
+let lackOfValue = null;
 
 // 8.   What would happen if you tried to re-assign alaskaStateFlower to
 //      'Magnolia'? Uncomment the variable that is correct
