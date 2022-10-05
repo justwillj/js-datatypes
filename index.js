@@ -12,7 +12,7 @@
 
 // 1.   Declare a variable named "tree". Use a keyword that allows reassignment,
 //      but not re-declaration
-
+let tree;
 // 2.   Assign a value of 'Oak' to the tree variable
 
 // 3.   Initialize a constant variable named "alaskaStateFlower",
