@@ -24,7 +24,7 @@ const numberOfChoice = 5;
 const binaryChoice = false;
 // 6.   Assign defaultVariableValue to have the string representation
 //      of JavaScript's default variable value
-const defaultVariableValue = 'placeholder';
+const defaultVariableValue = 'undefined';
 
 // 7.   Assign lackOfValue to be the data type that a developer should
 //      assign when a value is not known ahead of time. Your answer should
