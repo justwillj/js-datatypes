@@ -21,7 +21,7 @@ const alaskaStateFlower = "Forget-me-not";
 // 4.   Initialize a variable named "numberOfChoice" with any number
 const numberOfChoice = 5;
 // 5.   Initialize a variable named "binaryChoice" with any boolean
-
+const binaryChoice = false;
 // 6.   Assign defaultVariableValue to have the string representation
 //      of JavaScript's default variable value
 const defaultVariableValue = 'placeholder';
