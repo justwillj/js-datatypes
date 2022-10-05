@@ -19,7 +19,7 @@ let tree = "Oak";
 //      and assign it the value of 'Forget-me-not'
 const alaskaStateFlower = "Forget-me-not";
 // 4.   Initialize a variable named "numberOfChoice" with any number
-
+const numberOfChoice = 5;
 // 5.   Initialize a variable named "binaryChoice" with any boolean
 
 // 6.   Assign defaultVariableValue to have the string representation
