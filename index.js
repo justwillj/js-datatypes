@@ -17,7 +17,7 @@
 let tree = "Oak";
 // 3.   Initialize a constant variable named "alaskaStateFlower",
 //      and assign it the value of 'Forget-me-not'
-
+const alaskaStateFlower = "Forget-me-not";
 // 4.   Initialize a variable named "numberOfChoice" with any number
 
 // 5.   Initialize a variable named "binaryChoice" with any boolean
