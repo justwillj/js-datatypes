@@ -38,7 +38,7 @@ let lackOfValue = null;
  let reassignmentResult = 'An error occurs, since you can\'t reassign a variable that was declared with const';
 
 // 9.   Create a constant variable named operandTwo with any number
-
+const operandTwo = 10;
 // 10.  Create a variable named "product" and assign it to the value of 
 //      the "numberOfChoice" variable times the "operandTwo" variable
 
