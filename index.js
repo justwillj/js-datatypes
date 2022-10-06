@@ -73,4 +73,4 @@ const dataType16 = 'number';
 const dataType17 = 'number';
 
 // 18.  -10 * 'a1'
-const dataType18 = 'placeholder';
+const dataType18 = 'NaN';
