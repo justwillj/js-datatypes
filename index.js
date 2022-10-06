@@ -58,7 +58,7 @@ const productOutput = `The product is: ${product}`;
 const dataType12 = 'number';
 
 // 13.  -10 + '5'
-const dataType13 = 'placeholder';
+const dataType13 = 'string';
 
 // 14.  '-10' + 5
 const dataType14 = 'placeholder';
