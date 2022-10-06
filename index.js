@@ -35,7 +35,7 @@ let lackOfValue = null;
 //      'Magnolia'? Uncomment the variable that is correct
 // let reassignmentResult = 'alaskaStateFlower becomes Magnolia';
 // let reassignmentResult = 'Nothing happens, and alaskaStateFlower is still Forget-me-not';
-// let reassignmentResult = 'An error occurs, since you can\'t reassign a variable that was declared with const';
+ let reassignmentResult = 'An error occurs, since you can\'t reassign a variable that was declared with const';
 
 // 9.   Create a constant variable named operandTwo with any number
 
