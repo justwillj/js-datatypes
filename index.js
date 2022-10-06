@@ -70,7 +70,7 @@ const dataType15 = 'number';
 const dataType16 = 'number';
 
 // 17.  -10 / '5'
-const dataType17 = 'placeholder';
+const dataType17 = 'number';
 
 // 18.  -10 * 'a1'
 const dataType18 = 'placeholder';
