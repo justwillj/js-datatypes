@@ -41,7 +41,8 @@ let lackOfValue = null;
 const operandTwo = 10;
 // 10.  Create a variable named "product" and assign it to the value of 
 //      the "numberOfChoice" variable times the "operandTwo" variable
-
+const product = numberOfChoice * operandTwo;
+// const product = 50;
 // 11.  Create a variable named "productOutput" and give it a string value with
 //      the following sentence: "The product is: <answer_here>", ensuring that <answer_here> is your product variable
 
