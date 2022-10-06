@@ -67,7 +67,7 @@ const dataType14 = 'string';
 const dataType15 = 'number';
 
 // 16. '-10' * 5
-const dataType16 = 'placeholder';
+const dataType16 = 'number';
 
 // 17.  -10 / '5'
 const dataType17 = 'placeholder';
